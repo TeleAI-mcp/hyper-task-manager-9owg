@@ -1,2 +1,3 @@
-# hyper-task-manager-9owg
-Repository to test GitHub automation for issue management
+# Hyper Task Manager 9Owg
+
+A repository to test GitHub automation for issue management.
